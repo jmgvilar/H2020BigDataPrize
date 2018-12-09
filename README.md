@@ -1,5 +1,5 @@
 # H2020BigDataPrize
-Data driven prediction of electricity grid traffic
+Data-driven prediction of electricity grid traffic
 
 This repository will host the winner solution of the European Union Big Data Technologies Horizon Prize:
 http://ec.europa.eu/research/horizonprize/index.cfm?prize=bigdata
